@@ -1,0 +1,15 @@
+{
+  "name": "Es Gabin Kekinian & Es Krim Cemil",
+  "short_name": "Es Gabin",
+  "description": "Pesan es gabin dan es krim cemil favoritmu.",
+  "lang": "id-ID",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffaf7",
+  "theme_color": "#e91e63",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
