@@ -1,4 +1,4 @@
-const CACHE_NAME = "es-gabin-v3";
+const CACHE_NAME = "es-gabin-v4";
 const APP_FILES = ["./", "./index.html", "./styles.css", "./app.js", "./manifest.json", "./icons/icon-192.png", "./icons/icon-512.png"];
 
 self.addEventListener("install", (event) => {

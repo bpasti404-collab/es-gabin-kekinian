@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bpasti404-collab.github.io/es-gabin-kekinian/sitemap.xml
